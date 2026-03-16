@@ -226,9 +226,3 @@ Ideas for improving the project:
 -   depth map visualization
 -   GPU acceleration
 -   object detection tracking
-
-------------------------------------------------------------------------
-
-# License
-
-MIT License
